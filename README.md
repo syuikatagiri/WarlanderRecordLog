@@ -1,0 +1,2 @@
+# WarlanderRecordLog
+Warlander戦績記録用マクロ
